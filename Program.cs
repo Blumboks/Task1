@@ -15,10 +15,10 @@
 // FromMToN(10, 21);
 
 
-// Console.Write("Введите число M: ");
+// Console.Write("Input Value M: ");
 // int m = Convert.ToInt32(Console.ReadLine());
 
-// Console.Write("Введите число N: ");
+// Console.Write("Input Value N: ");
 // int n = Convert.ToInt32(Console.ReadLine());
 
 // AkermanFunction(m, n);
